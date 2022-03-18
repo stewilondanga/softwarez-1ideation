@@ -58,7 +58,6 @@ import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
   -moz-backface-visibility: hidden;
 }
 
-/*
 .share-button__text {
   margin: 0;
   line-height: 42px;
@@ -67,6 +66,7 @@ import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
   color: #b6b6b6;
 }
 
+/*
 .share__link {
   position: relative;
   top: 40px;
